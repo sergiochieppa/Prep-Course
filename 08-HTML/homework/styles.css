@@ -1,0 +1,23 @@
+
+
+h1{
+        color:aqua
+    }
+    img{
+    width: 400px;
+    }
+    #thirdDiv{
+        height: 600;
+        width: 500px;k
+        background-color: bisque;
+    
+    }
+    #spanId{
+        font-size: 18;
+        margin: 50px;
+    }
+    .divClass{
+        padding: 50px;
+        border: 2px solid coral;
+    
+    }
